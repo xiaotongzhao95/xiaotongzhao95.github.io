@@ -1,5 +1,10 @@
 ---
-
+permalink: /
+title: " "
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Xiaotong Zhao is currently a postdoc researcher in the Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. Anthony Man-Cho So. Before joining CUHK, I received Ph.D. degree in the School of Computer Science and Technology from Tongji University in 2025, under the supervision of Prof. Qingjiang Shi. I received my M.Sc. degree, under the supervision of Prof. Enbin Song in School of Mathematics, Sichuan University from Sichuan University in 2020. My main research interests are nonlinear optimization and its applications to signal processing, wireless communications.
