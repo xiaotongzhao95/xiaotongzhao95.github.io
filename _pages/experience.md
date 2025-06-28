@@ -11,15 +11,16 @@ redirect_from:
 
 Work
 ======
-* PostDoc in School of Mathematics, Sichuan University, 2024.07-now
+* PostDoc in Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, 2025.06-now
 
 Visiting
 ======
-* Visiting Student in School of Computer Science, Peking University, 2022.09-2024.02
+* Visiting Student in School of Mathematics, Sichuan University, 2023.07-2023.08
+* Visiting Student in Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2022.08-2022.09
 
 Education
 ======
-* Ph.D in School of Statistics and Data Science, Nankai University, 2020.09-2024.06
+* Ph.D in School of Statistics and Data Science, Tongji University, 2020.09-2025.04
 * M.S. in School of Mathematics, Sichuan University, 2017.09-2020.06
-* B.S. in School of Mathematics, Sichuan University, 2013.09-2017.06
+* B.S. in School of Mathematics, Sichuan University, 2011.09-2015.06
 
