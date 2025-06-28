@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-
+ <br>
 
 2025
 ====
-1.  **Siyu Yi**, Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*. DOI:10.1109/TMM.2025. 3543068. <br>
+1. **Xiaotong** and Q. Shi, “A Universal Low-Dimensional Subspace Structure in Beamforming Design: Theory and Applications,” *IEEE Transactions on Signal Processing*, Apr. 2025.
+2. **X. Zhao**, M. Li, B. Wang, E. Song, T. -H. Chang and Q. Shi, “Efficient LMMSE Equalization for Massive MIMO Systems Under Decentralized Baseband Processing Architecture,” *IEEE Journal on Selected Areas in Communications*, Mar. 2025.
+3.  Zhengyang Mao, Yifan Wang, Yiyang Gu, Zhiping Xiao, Chong Chen, Xian-Sheng Hua, Ming Zhang, and Wei Ju (2025). Hypergraph consistency learning with relational distillation. *IEEE Transactions on Multimedia*. DOI:10.1109/TMM.2025. 3543068. <br>
 [[Paper](../files/25-IEEE TMM Hypergraph consistency learning with relational distillation.pdf)] *<span style="color:red">JCR Q1, 中科院一区, IF=8.4</span>*
 
 1.  **Siyu Yi**, Zhengyang Mao, Kangjie Zheng, Zhiping Xiao, Ziyue Qiao, Chong Chen, Xiansheng Hua, Yongdao Zhou, Ming Zhang, and Wei Ju (2025). Learning generalizable contrastive representations for graph zero-shot learning. *IEEE Transactions on Multimedia*.  <br>
