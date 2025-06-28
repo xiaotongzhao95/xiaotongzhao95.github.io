@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>  
-
+ 
 2025
 ====
 1. **X. Zhao** and Q. Shi, “A Universal Low-Dimensional Subspace Structure in Beamforming Design: Theory and Applications,” *IEEE Transactions on Signal Processing*, Apr. 2025.
