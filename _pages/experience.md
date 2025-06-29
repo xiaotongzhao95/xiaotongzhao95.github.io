@@ -20,7 +20,7 @@ Visiting
 
 Education
 ======
-* Ph.D in School of Statistics and Data Science, Tongji University, 2020.09-2025.04
+* Ph.D in School of Computer Science and Technology, Tongji University, 2020.09-2025.04
 * M.S. in School of Mathematics, Sichuan University, 2017.09-2020.06
 * B.S. in School of Mathematics, Sichuan University, 2011.09-2015.06
 
