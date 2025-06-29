@@ -11,7 +11,7 @@ redirect_from:
 
 Work
 ======
-* PostDoc in Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, 2025.06-now
+* Research Associate in Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, 2025.06-now
 
 Visiting
 ======
